@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+flex: 1;
+}
+.articleFooter{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+
+}
+.afa{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+
+nav{
+    background: lightsalmon;
+    width: 25vh;
+
+
+}
+header{
+    background: lightsteelblue;
+    height: 15vh;
+}
+footer{
+    background: wheat;
+height: 15vh;
+
+}
+article{
+    width: 30vh;
+}
+aside {
+    background: darkseagreen;
+    width: 20vh;
+}
+
